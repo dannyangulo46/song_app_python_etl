@@ -20,6 +20,9 @@ The design will consist in creating a fact table for the songs played and 4 dime
 1) Run create_tables.py to create tables
 2) Run etl.py to transform data files and load them into fact table and dimension tables
 
+## Database schema
+![database schema](tables_schema.png)
 
 
-![]
+
+
